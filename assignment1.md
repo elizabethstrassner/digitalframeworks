@@ -2,8 +2,7 @@
 ## Elizabeth Strassner
 
 
-__Extensive Data Shows Punishing Reach of Racism for Black Boys, *New York Times*, March 19, 2018__.
-[TK LINK NAME](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html)
+__[Extensive Data Shows Punishing Reach of Racism for Black Boys](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html), *New York Times*, March 19, 2018.__
 
 
 **How did they use the data?**
