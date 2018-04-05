@@ -17,7 +17,7 @@ I think this is a great example of how data can drive reporting, rather than the
 2. Are there specific ages at which this racism is particularly pernicious? 
 3. Can the effect of the so-called "school-to-prison pipeline" be quantified? 
 
-**Useful infographics**
+**Useful infographics** |
 This story is, to me, an excellent example of how well-made graphics can contribute to a story. In addition to the initial piece, the *Times* also published a series related to the topic, including [one article](https://www.nytimes.com/interactive/2018/03/27/upshot/make-your-own-mobility-animation.html) that enables the reader to toggle the mobility chart for any combination of race and gender.
 
 Another startling infographic modeled the percent chance of incarceration for a given boy compared with how much money his parents make. The graphic showed that black boys whose parents are in the top 1 percent are as likely to be incarcerated as a white boy whose parents make $36,000 annually. 
