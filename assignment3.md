@@ -19,6 +19,14 @@ Here are the features I will be considering:
 
 I will collect this data by reviewing government records about meetings with state leaders and reviewing press coverage for first lady apparel. I am planning to collect Laura Bush through Melania Trump, but may extend further backwards if I find compelling content.
 
-First Lady | Date of Visit | Country of Origin | Head of State | Designer of Outfit | Country of Designer | Designer of Accessory | Country of Designer
+First Lady | Date of Visit | Country of Origin | Head of State | Designer of Outfit | Country Origin of Designer | Designer of Accessory | Country of Designer
+---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
+Melania Trump | 4/24/18 | France | Emmanuel Macron | Michael Kors | USA | Hervé Pierre | France
+---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
+Michelle Obama | 10/13/11 | South Korea |  | Doo Ri-Chung | South Korea | N/A | N/A
+---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
+tk | tk | tk | tk | tk | tk | tk | tk
+---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
+tk | tk | tk | tk | tk | tk | tk | tk
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
 tk | tk | tk | tk | tk | tk | tk | tk
