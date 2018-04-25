@@ -21,12 +21,12 @@ I will collect this data by reviewing government records about meetings with sta
 
 First Lady | Date of Visit | Country of Origin | Head of State | Designer of Outfit | Country Origin of Designer | Designer of Accessory | Country of Designer
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
-Melania Trump | 4/24/18 | France | Emmanuel Macron | Michael Kors | USA | Hervé Pierre | France
+Melania Trump | 04/24/18 | France | Emmanuel Macron | Michael Kors | USA | Hervé Pierre | France
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
 Michelle Obama | 10/18/16 | Italy | Matteo Renzi | Giambattista Valli | Italy | N/A | N/A
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
-Michelle Obama | 10/13/11 | South Korea |  | Doo Ri-Chung | South Korea | N/A | N/A
+Michelle Obama | 04/28/15 | Japan | Shinzo Abe | Tadashi Shoji | Japan | N/A | N/A
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
-tk | tk | tk | tk | tk | tk | tk | tk
+Michelle Obama | 10/13/11 | South Korea | Lee Myung-Bak | Doo Ri-Chung | South Korea | N/A | N/A
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
 tk | tk | tk | tk | tk | tk | tk | tk
