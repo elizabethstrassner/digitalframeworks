@@ -23,9 +23,9 @@ First Lady | Date of Visit | Country of Origin | Head of State | Designer of Out
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
 Melania Trump | 4/24/18 | France | Emmanuel Macron | Michael Kors | USA | Hervé Pierre | France
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
-Michelle Obama | 10/13/11 | South Korea |  | Doo Ri-Chung | South Korea | N/A | N/A
+Michelle Obama | 10/18/16 | Italy | Matteo Renzi | Giambattista Valli | Italy | N/A | N/A
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
-tk | tk | tk | tk | tk | tk | tk | tk
+Michelle Obama | 10/13/11 | South Korea |  | Doo Ri-Chung | South Korea | N/A | N/A
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
 tk | tk | tk | tk | tk | tk | tk | tk
 ---- | ----- | ---- | -------- | ----------- | -------------- | ---------- | ------ |
