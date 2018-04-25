@@ -25,4 +25,4 @@ Melania Trump | 04/24/18 | France | Emmanuel Macron | Michael Kors | USA | Herv√
 Michelle Obama | 10/18/16 | Italy | Matteo Renzi | Giambattista Valli | Italy | N/A | N/A
 Michelle Obama | 04/28/15 | Japan | Shinzo Abe | Tadashi Shoji | Japan | N/A | N/A
 Michelle Obama | 10/13/11 | South Korea | Lee Myung-Bak | Doo Ri-Chung | South Korea | N/A | N/A
-Laura Bush | 09/16/2008 | Ghana | John Agyekum-Kufor | Bill Blass | USA | N/A | N/A
+Laura Bush | 09/16/08 | Ghana | John Agyekum-Kufor | Bill Blass | USA | N/A | N/A
