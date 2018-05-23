@@ -7,7 +7,7 @@ LONDON — Prince Harry tied the knot Saturday with Meghan Markle in a lavish ce
 
 The widely watched royal wedding was the second in a decade — Harry's older brother, Prince William, married Kate Middleton in a 2011 ceremony that drew just as much international attention. Although William is to inherit the throne, his wedding actually cost less than his brother's — $34 million, according to wedding website Brides.com. 
 
-
+![Extravagant Celebrity Weddings](https://github.com/elizabethstrassner/digitalframeworks/blob/master/chart.png)
 
 But royal marriages are not the only times when the public is seized by wedding fever. Celebrity weddings have long been a cause for celebration, attention, and big TV ratings. In some cases, as for the royals, wedding costs are largely driven by hefty security fees. British newspaper *the Telegraph* estimates that when William and Harry's mother, Princess Diana, wed their father Prince Charles in 1981, the wedding cost $39.9 million — seemingly less than the brothers' weddings, but an estimated $110 million when adjusted for inflation. The biggest single cost of that ceremony? Security, according to a CBS report.
 
