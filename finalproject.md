@@ -21,6 +21,8 @@ However, it is far from clear that the president is the sole cause of this incre
 
 ![JD Graduates Working Full-Time As Lawyers](https://github.com/elizabethstrassner/digitalframeworks/blob/master/JD%20Grads%20Working%20as%20Lawyers.png)
 
+<sub>American Bar Association required disclosures, 2012-2017<sub>
+
 Assuming the cause is the 45th president, however, some law school experts do not expect the “Trump Bump” to last, even into the 2018-2019 application cycle.
 
 “The bump was a psychological state reaction, not a groundswell ‘go to law school’ movement that happened over time,” argued the experts at Spivey Consulting. “A number of people were hot over the surprising election result and decided to apply… that was a bounce that won’t spike applications this coming cycle.”
