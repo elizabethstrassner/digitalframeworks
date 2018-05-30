@@ -17,7 +17,11 @@ With a reality TV star in the White House, it seems almost logical that some of 
 
 The election of President Donald Trump may have shocked millions of left-leaning Americans, but it also galvanized them to follow politics more closely than ever before. Rather than fighting unpopular policies in the halls of Congress, many of the president’s most controversial acts have been battled in the courtroom. Suddenly, the names that were trending big on Twitter weren’t Kim Kardashian and Nicki Minaj but people like former acting Attorney General Sally Yates, former U.S. Attorney and current podcast host Preet Bharara — and, of course, Special Counsel Robert Mueller. 
 
-However, some law school experts do not expect the “Trump Bump” to last, even into the 2018-2019 application cycle.
+However, it is far from clear that the president is the sole cause of this increase. Although the percentage of law school graduates with full-time legal jobs has not risen dramatically in the years that the American Bar Association has tracked this data (since 2012), there have been modest gains, meaning that law school may be less of a gamble now than it was five years ago.
+
+![JD Graduates Working Full-Time As Lawyers](https://github.com/elizabethstrassner/digitalframeworks/blob/master/JD%20Grads%20Working%20as%20Lawyers.png)
+
+Assuming the cause is the 45th president, however, some law school experts do not expect the “Trump Bump” to last, even into the 2018-2019 application cycle.
 
 “The bump was a psychological state reaction, not a groundswell ‘go to law school’ movement that happened over time,” argued the experts at Spivey Consulting. “A number of people were hot over the surprising election result and decided to apply… that was a bounce that won’t spike applications this coming cycle.”
 
